@@ -1,0 +1,106 @@
+@import url
+
+
+header{
+	background-color: transparent;
+	padding: 20px 0;
+	position: absolute;
+	width: 100%;
+	z-index: 999999;
+	color: #fff;
+}
+
+.btn-naranja{
+	background-color: #fba755;
+	color: #fff;
+	font-size: 16px;
+	border: 0;
+	padding: 10px 40px;
+	font-weight: 300;
+	
+}
+
+.btn-blanco{
+	background-color: #fff;
+	color: #000;
+	font-size: 16px;
+	border: 0;
+	padding: 10px 40px;
+	font-weight: 300;
+	
+}
+
+#home{
+	background-image: url("../img/home-header-bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #FFFFFF;
+	padding: 10% 0;
+	text-align: center;
+}
+
+#home h1{
+	text-align: left;
+	margin-left: 10px;
+	font-weight: 700;
+}
+
+#home p{
+	padding: 30px 0;
+	text-align: left;
+}
+
+#coaches{
+	background-color: #fff;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 10% 0;
+	text-align: center;
+}
+
+#coaches img{
+	padding: 40px 0;
+}
+
+#coaches p{
+	color: #7e7979;
+	margin-top: 30px;
+}
+
+#about{
+	margin: 80px 0;
+}
+
+#about p{
+	width: 100%;
+	margin-left: 30px;
+}
+
+#about h3{
+	margin-left: 30px;
+}
+
+#gallery img{
+	width: auto;
+}
+
+footer{
+	background-color: #272525;
+	color: #7e7979;
+	text-align: center;
+	padding: 50px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
